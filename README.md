@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./inicio_image.gif" alt="Inicio" width="600">
+</p>
+
 # 👋 Hello, World! I'm Sofia  
 
 > Frontend Developer in training, passionate about code, video games 🎮, and cats 🐱.  
