@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./inicioimg.gif" alt="Inicio" width="1200">
+  <img src="./inicioimg.gif" alt="Inicio" width="600">
 </p>
 
 # 👋 Hello, World! I'm Sofia  
