@@ -68,8 +68,8 @@ Linux and scripting tricks that make life easier.
 <h2 align="center">💌 Connect With Me</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sofia-alonso-285892286/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:sofiaalonso2812@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">🐞✨🐞✨🐞✨🐞✨🐞✨</p>
